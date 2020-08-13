@@ -1,2 +1,2 @@
 git is a distributed version control tool.
-git is free for everyone.
+git is free for everyone under GPL.
